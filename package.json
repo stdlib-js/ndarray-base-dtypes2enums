@@ -44,6 +44,8 @@
     "@stdlib/array-base-n-cartesian-product": "^0.2.2",
     "@stdlib/assert-is-integer-array": "^0.2.2",
     "@stdlib/console-log-each": "^0.2.2",
+    "@stdlib/dstructs-struct": "github:stdlib-js/dstructs-struct#main",
+    "@stdlib/ndarray-dtype-ctor": "github:stdlib-js/ndarray-dtype-ctor#main",
     "@stdlib/ndarray-dtypes": "^0.3.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
